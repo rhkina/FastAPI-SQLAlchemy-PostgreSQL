@@ -1,0 +1,1 @@
+## Based on FastAPI official tutorial: https://fastapi.tiangolo.com/advanced/async-sql-databases/
